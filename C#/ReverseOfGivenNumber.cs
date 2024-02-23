@@ -18,6 +18,6 @@ public class ReverseOfGivenNumber
             result = result*10 + rem;
             n = n / 10;
         }
-        Console.WriteLine("The sum of digits is " + result);
+        Console.WriteLine("The reverse of given number is " + result);
     }
 }
