@@ -19,6 +19,6 @@ public class sumOfDigits
             sum = sum + rem;
             n = n / 10;
         }
-        Console.WriteLine("The reverse of given number is " + sum);
+        Console.WriteLine("The sum of given digits is " + sum);
     }
 }
